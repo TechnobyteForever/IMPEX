@@ -109,7 +109,7 @@ export const ZoomImage = () => {
                 // WebkitBackdropFilter: 'blur(4px)',
             }}
         >
-            <div className='text-white text-wrap text-5xl text-center rounded-xl font-phobes flex flex-col gap-5 heading:text-6xl' style={{
+            <div className='text-white text-wrap text-5xl text-center rounded-xl flex flex-col gap-5 heading:text-6xl' style={{
                 // filter: 'blur(5px)',
                 textShadow: '5px 5px 5px black'
             }}>
