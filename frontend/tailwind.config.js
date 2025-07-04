@@ -11,11 +11,7 @@ export default {
             }
         },
         fontFamily: {
-            'roboto': ['Roboto', 'sans-serif'],
-            'volaroid': ['Volaroid san', 'sans-serif'],
-            'sancoale': ['Sancoale', 'sans-serif'],
-            'cholla': ['ChollaSlabThin', 'sans-serif'],
-            'phobes': ['Phobes', 'sans-serif'],
+            'roboto': ['Roboto', 'sans-serif']
         },
         screens: {
             'navlim': '906px',
